@@ -1,3 +1,3 @@
-Certination
+Hand Gesture Recognition
 ==========
-Works as an interface between student and teacher providing a complete digital e-learning platform
+Hand Gesture Recognition using OpenCV and C++ which uses vision based gesture detection techniques , using an ordinary webcam .No special sensors are used.
